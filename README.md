@@ -32,20 +32,15 @@
 
 ---
 
+
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surbhijadav&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=surbhijadav&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surbhijadav&theme=radical" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.vercel.app/?user=surbhijadav&theme=radical" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhijadav&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhijadav&layout=compact&theme=radical" alt="Top Languages" />
+
 
 ---
 
