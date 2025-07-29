@@ -45,11 +45,10 @@
 
 ### 🌐 Let's Connect!
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">💼 LinkedIn</a>  
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/surbhi-jadav-19004a307" target="_blank">💼 LinkedIn</a>  
   •  
-  <a href="mailto:your@email.com">📬 Email</a>  
-  •  
-  <a href="https://your-portfolio.com">🌐 Portfolio (soon!)</a>
+  <a href="mailto:jadavsubhu04@outlook.com">📬 Email</a>  
+  •
 </p>
 
 ---
