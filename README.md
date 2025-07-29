@@ -33,12 +33,18 @@
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurbhiGithubUsername&show_icons=true&theme=radical" alt="Surbhi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surbhijadav&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurbhiGithubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surbhijadav&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhijadav&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
