@@ -37,8 +37,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=surbhijadav&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=surbhijadav&theme=radical" alt="GitHub Streak" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhijadav&layout=compact&theme=radical" alt="Top Languages" />
 
 
