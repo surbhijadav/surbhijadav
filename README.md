@@ -44,7 +44,7 @@
 
 ### 🌐 Let's Connect!
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/surbhi-jadav-19004a307" target="_blank">💼 LinkedIn</a>  
+  <a href="https://www.linkedin.com/in/surbhi-jadav-19004a307" target="_blank">💼 LinkedIn</a>  
   •  
   <a href="mailto:jadavsubhu04@outlook.com">📬 Email</a>  
   •
